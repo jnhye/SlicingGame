@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import mediapipe as mp
 
-from TryProcessDataTrainTest import getModel
+from ProcessKPTrainTest import getModel
 from SetupTesting import *
 from KPCreateFolders import *
 
